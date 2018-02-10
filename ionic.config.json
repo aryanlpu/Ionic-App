@@ -1,0 +1,14 @@
+{
+  "name": "Ionic3_MultilevelSidemenu",
+  "app_id": "d90d8463",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+  {
+      "path": "/api",
+      "proxyUrl": "https://www.rhfcoin.net/MDDAPI/Mobapp_API.php"
+  }
+]
+}
